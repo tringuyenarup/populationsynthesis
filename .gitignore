@@ -1,4 +1,8 @@
 inputs
 outputs
 
+data
+output
+configs
+
 .ipynp_checkpoints
