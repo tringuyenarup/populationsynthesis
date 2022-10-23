@@ -1,8 +1,14 @@
 inputs
+inputs/
 outputs
+outputs/
+
 
 data
 output
 configs
 
-.ipynp_checkpoints
+.ipynb_checkpoints
+.ipynb_checkpoints/
+
+.DS_Store
